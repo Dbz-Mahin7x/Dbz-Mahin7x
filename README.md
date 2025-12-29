@@ -1,6 +1,6 @@
 #   
   <h1 style="font-size: 45px; color: #00ffe0;">🌸 𝐇𝐞𝐲, 𝐈'𝐌 𝐌𝐀𝐇𝐈𝐍 — 𝐁𝐫𝐨𝐤𝐞𝐧 𝐌𝐚𝐧 💔</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF61C3&center=true&vCenter=true&width=450&lines=😾Sorry+i+Have+a+Wife+🇯🇵;JavaScript+Lover+🔥;Node.js+%7C+React+%7C+Bots+🐐;I+code+like+it's+a+love+story+💘" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF61C3&center=true&vCenter=true&width=450&lines=Hey+guys+What's+Up+🇯🇵;🎀+🌷+✨;Node+%7C+React+%7C+Bots+🐐;I+code+like+it's+a+love+story+💘" alt="Typing SVG" />
   
  <p style="margin-top:15px;">
 
