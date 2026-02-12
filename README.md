@@ -4,14 +4,14 @@
   
  <p style="margin-top:15px;">
 
-# 🌸 𝓜𝓪𝓱𝓲𝓷'𝓼 𝓚𝓪𝔀𝓪𝓲𝓲 𝓒𝓸𝓭𝓮 𝓦𝓸𝓻𝓵𝓭 🎀
+# 🌸 𝓚𝓪𝔀𝓪𝓲𝓲 𝓒𝓸𝓭𝓮 𝓦𝓸𝓻𝓵𝓭 🎀
 
 <div align="center">
   
   <!-- Bouncing Header -->
   <h1 style="color: #ff69b4; font-size: 45px; text-shadow: 3px 3px 0 #ffb6c1;">
     <marquee behavior="alternate" scrollamount="3">
-      ✨ ℳ𝒶𝒽𝒾𝓃 ✨ 𝒯𝒽𝑒 𝒞𝑜𝒹𝑒 𝒫𝓇𝒾𝓃𝒸𝑒 ✨
+      🎀
     </marquee>
   </h1>
   
