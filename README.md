@@ -112,7 +112,7 @@
 <!-- Trophy -->
 ![trophy](https://github-profile-trophy.vercel.app/?username=Dbz-Mahin7x&theme=flat)
 
-  
+ ## Stats
   <!-- GitHub Stats -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
