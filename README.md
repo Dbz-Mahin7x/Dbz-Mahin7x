@@ -124,6 +124,15 @@
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical" alt="Dbz-Mahin7x GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dbz-Mahin7x&theme=radical" alt="Dbz-Mahin7x's GitHub streak" />
+</p>
 
 ## 🔥 Profile Views
 
