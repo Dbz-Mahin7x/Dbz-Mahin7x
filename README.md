@@ -115,7 +115,7 @@
   
   <!-- GitHub Stats -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gojo-999&show_icons=true&theme=radical&bg_color=ffb6c1&title_color=ff1493&icon_color=ff69b4&text_color=ffffff&border_color=ff99cc&hide_border=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical&bg_color=ffccf9&title_color=ff1493&text_color=ffffff&border_color=ff99cc&hide_border=true" />
   </div>
   
