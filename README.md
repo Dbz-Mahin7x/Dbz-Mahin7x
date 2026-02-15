@@ -91,13 +91,13 @@
 
 ### 🍓 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓛𝓮𝓿𝓮𝓵𝓼 🍓
 
-<img src="https://img.shields.io/badge/JavaScript%20Magic-96%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Magic" />
+<img src="https://img.shields.io/badge/JavaScript%20Magic-96%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript " />
 <br/>
 
-<img src="https://img.shields.io/badge/Node.js%20Power-89%25-ff99cc?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Power" />
+<img src="https://img.shields.io/badge/Node.js%20Power-89%25-ff99cc?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js " />
 <br/>
 
-<img src="https://img.shields.io/badge/React%20Cuteness-78%25-ffb6c1?style=for-the-badge&logo=react&logoColor=white" alt="React Cuteness" />
+<img src="https://img.shields.io/badge/React%20Cuteness-78%25-ffb6c1?style=for-the-badge&logo=react&logoColor=white" alt="React " />
 <br/>
 
 <img src="https://img.shields.io/badge/GoatBot%20Skills-100%25-ff1493?style=for-the-badge&logo=robot&logoColor=white" alt="GoatBot Skills" />
