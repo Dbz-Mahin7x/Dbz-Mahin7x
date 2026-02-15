@@ -215,14 +215,13 @@
  Lᴏɴᴇʟʏɴᴇᴇs ɪs ᴍʏ ᴠᴜʀᴛᴜᴇ🍫
 
 💔 ɪ ᴡᴀɴᴛ ᴘᴇᴀᴄᴇ 🥀
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dbz-Mahin7x&theme=flat&no-frame=true&margin-w=4"
-       alt="trophy" style="max-width:100%;height:auto;"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical&hide_border=true"
-       alt="GitHub Stats" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical&hide_border=true"
-       alt="Top Languages" height="160" />
-</p>
 
+
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Dbz-Mahin7x?style=social" alt="stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/forks/Dbz-Mahin7x?style=social" alt="forks" />
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/Dbz-Mahin7x?color=ff69b4&label=Top%20Language" alt="top language" />
+</p>
