@@ -85,32 +85,36 @@
     <img src="https://img.shields.io/badge/Tailwind-FF99CC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </div>
   
- # <!-- Cute Skill Bars -->
-<div style="background: white; padding: 25px; border-radius: 20px; margin-top: 20px; border: 4px dotted #ff69b4;">
-  <h3 style="color: #ff1493; text-align: center;">🍓 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓛𝓮𝓿𝓮𝓵𝓼 🍓</h3>
+ <div align="center">
 
-  <p>🌸 JavaScript Magic  
-  <img src="https://progress-bar.dev/96/?width=500&title=&color=ff69b4&bgColor=fff0f5" alt="JavaScript" /></p>
+<div align="center">
 
-  <p>🎀 Node.js Power  
-  <img src="https://progress-bar.dev/89/?width=500&title=&color=ff99cc&bgColor=fff0f5" alt="Node.js" /></p>
+### 🍓 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵 𝓛𝓮𝓿𝓮𝓵𝓼 🍓
 
-  <p>💖 React Cuteness  
-  <img src="https://progress-bar.dev/78/?width=500&title=&color=ffb6c1&bgColor=fff0f5" alt="React" /></p>
+<img src="https://img.shields.io/badge/JavaScript%20Magic-96%25-ff69b4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Magic" />
+<br/>
 
-  <p>✨ GoatBot Skills  
-  <img src="https://progress-bar.dev/100/?width=500&title=&color=ff1493&bgColor=fff0f5" alt="GoatBot" /></p>
-</div>
+<img src="https://img.shields.io/badge/Node.js%20Power-89%25-ff99cc?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Power" />
+<br/>
+
+<img src="https://img.shields.io/badge/React%20Cuteness-78%25-ffb6c1?style=for-the-badge&logo=react&logoColor=white" alt="React Cuteness" />
+<br/>
+
+<img src="https://img.shields.io/badge/GoatBot%20Skills-100%25-ff1493?style=for-the-badge&logo=robot&logoColor=white" alt="GoatBot Skills" />
+
+<br/>
+<br/>
 
 ---
-<!-- GitHub Readme Stats -->
-![Mahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical)
 
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&theme=radical" alt="Mahin's GitHub stats" />
 
-<!-- Trophy -->
-![trophy](https://github-profile-trophy.vercel.app/?username=Dbz-Mahin7x&theme=flat)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbz-Mahin7x&layout=compact&theme=radical" alt="Top Langs" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dbz-Mahin7x&theme=flat" alt="trophy" />
+
+</div>
+
 
  ## Stats
   <!-- GitHub Stats -->
