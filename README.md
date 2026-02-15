@@ -218,10 +218,3 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Dbz-Mahin7x?style=social" alt="stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/Dbz-Mahin7x?style=social" alt="forks" />
-  &nbsp;
-  <img src="https://img.shields.io/github/languages/top/Dbz-Mahin7x?color=ff69b4&label=Top%20Language" alt="top language" />
-</p>
