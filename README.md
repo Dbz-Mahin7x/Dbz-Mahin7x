@@ -108,9 +108,9 @@
 ---
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="ThanhNguyxn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api?username=Dbz-Mahin7x&show_icons=true&locale=en&theme=onedark&count_private=true" alt="Dbz-Mahin7x's GitHub Stats" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=Dbz-Mahin7x&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=Dbz-Mahin7x&layout=compact&locale=en&theme=onedark" alt="Top Languages" />
 </p>
 
 
