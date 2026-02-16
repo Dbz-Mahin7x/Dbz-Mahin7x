@@ -179,8 +179,9 @@
 </div>
 
 ---
-<!-- Contribution graph -->
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Dbz-Mahin7x&theme=react-dark&hide_border=true)
+## 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbz-Mahin7x&theme=react-dark&hide_border=true)
 
 ##
 
