@@ -179,9 +179,7 @@
 </div>
 
 ---
-## 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dbz-Mahin7x&theme=react-dark&hide_border=true)
 
 ##
 
