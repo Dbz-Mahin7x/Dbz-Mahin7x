@@ -134,7 +134,16 @@
   <img width="400px" src="https://count.getloli.com/get/@Dbz-Mahin7x?theme=rule34"></img>
 </p>
 
-#
+# </p>
+  
+  <h3>📊 Commit History</h3>
+  <img src="https://api.vaunt.dev/v1/github/entities/Dbz-Mahin7x/repositories/Mahiru-shina/contributors?format=svg" width="90%">
+</div>
+
+<br>
+
+<!-- Contributing Section -->
+<div align="center">
 
 ## ✨ My Coding Activity
 
