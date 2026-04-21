@@ -1,5 +1,5 @@
 #   
-  <h1 style="font-size: 45px; color: #00ffe0;">🌸 𝐇𝐞𝐲, 𝐈'𝐌 𝐌𝐀𝐇𝐈𝐍 — 𝐁𝐫𝐨𝐤𝐞𝐧 𝐌𝐚𝐧 💔</h1>
+  <h1 style="font-size: 45px; color: #00ffe0;">🌸 𝐇𝐞𝐲, 𝐈'𝐌 𝐌𝐀𝐇𝐈𝐍 —🎀 </h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF61C3&center=true&vCenter=true&width=450&lines=Hey+guys+What's+Up+🇯🇵;🎀+🌷+✨;Node+%7C+React+%7C+Bots+🐐;I+code+like+it's+a+love+story+💘" alt="Typing SVG" />
   
  <p style="margin-top:15px;">
@@ -44,17 +44,17 @@
         <h3 style="color: #ff1493; text-align: center;">🌸 𝓜𝔂 𝓓𝓮𝓽𝓪𝓲𝓵𝓼 🌸</h3>
         <p>🎀 <b>𝐍𝐚𝐦𝐞:</b> 𝐌𝐚𝐡𝐢𝐧 𝐀𝐡𝐦𝐞𝐝 (まひん)</p>
         <p>🍓 <b>𝐀𝐠𝐞:</b> 16 𝐘𝐞𝐚𝐫 </p>
-        <p>🏡 <b>𝐅𝐫𝐨𝐦:</b> 𝐓𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 </p>
-        <p>💝 <b>𝐒𝐭𝐚𝐭𝐮𝐬:</b> 𝐈 𝐌𝐢𝐬𝐬 𝐇𝐞𝐫 💔</p>
-        <p>🎵 <b>𝐓𝐡𝐞𝐦𝐞 𝐒𝐨𝐧𝐠:</b> 𝐋𝐞𝐭 𝐇𝐞𝐫 𝐆𝐨 🎀</p>
+        <p>🏡 <b>𝐅𝐫𝐨𝐦:</b> 𝐑𝐚𝐣𝐬𝐡𝐚𝐡𝐢 </p>
+        <p>💝 <b>𝐒𝐭𝐚𝐭𝐮𝐬:</b> 𝐒𝐢𝐠𝐥𝐞 </p>
+        <p>🎵 <b>𝐓𝐡𝐞𝐦𝐞 𝐒𝐨𝐧𝐠:</b> 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐇𝐨𝐰 𝐖𝐢𝐧𝐭𝐞𝐫 𝐅𝐞𝐞𝐥𝐬 🎀</p>
       </div>
     </td>
     <td width="50%">
       <div style="background: white; padding: 20px; border-radius: 20px; box-shadow: 0 5px 15px rgba(255,105,180,0.3);">
         <h3 style="color: #ff1493; text-align: center;">✨ 𝓜𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷𝓼 ✨</h3>
-        <p>💻 <b>𝐂𝐨𝐝𝐞:</b> 𝐉𝐬 𝐀𝐧𝐝 𝐋𝐨𝐯𝐞 </p>
-        <p>🎨 <b>𝐃𝐞𝐬𝐢𝐠𝐧:</b> 𝐊𝐚𝐰𝐚𝐢𝐢 𝐔𝐈/𝐔𝐗</p>
-        <p>🤖 <b>𝐁𝐨𝐭:</b> 🫧🪼𝓜𝓪𝓱𝓲𝓻𝓾🎀𝓢𝓱𝓲𝓷𝓪🩷🪽🐾 </p>
+        <p>🌷 <b>𝐂𝐨𝐝𝐞:</b> 𝐉𝐬 𝐀𝐧𝐝 𝐋𝐨𝐯𝐞 </p>
+        <p>🩶 <b>𝐃𝐞𝐬𝐢𝐠𝐧:</b> 𝐊𝐚𝐰𝐚𝐢𝐢 𝐔𝐈/𝐔𝐗</p>
+        <p>🍓 <b>𝐁𝐨𝐭:</b> 🫧🪼𝓜𝓪𝓱𝓲𝓻𝓾🎀𝓢𝓱𝓲𝓷𝓪🩷🪽🐾 </p>
         <p>🍜 <b>𝐅𝐨𝐨𝐝:</b> Ramen + Bubble Tea</p>
         <p>🎮 <b> 𝐆𝐚𝐦𝐞 :</b> 𝐅𝐫𝐞𝐞 𝐅𝐢𝐫𝐞 </p>
       </div>
